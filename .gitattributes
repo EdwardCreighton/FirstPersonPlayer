@@ -1,0 +1,4 @@
+*.cs diff=csharp text
+
+*.prefab merge=unityyamlmerge eol=lf
+*.meta merge=unityyamlmerge eol=lf
