@@ -1,6 +1,6 @@
 {
     "name": "Sterling.FirstPersonPlayer",
-    "rootNamespace": "Sterling",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
