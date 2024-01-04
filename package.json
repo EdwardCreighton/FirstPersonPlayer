@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "displayName": "First Person Player Controller",
   "description": "",
-  "unity": "2022.3"
+  "unity": "2022.3",
+  "dependencies": {
+    "com.edward-creighton.sterling.general": "0.0.1"
+  }
 }
