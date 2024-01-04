@@ -7,6 +7,8 @@ namespace Sterling.FirstPersonPlayer
 {
 	public class FirstPersonController : MonoBehaviour
 	{
+		[SerializeField] private LevelController levelController;
+		[Space]
 		[SerializeField] private CharacterController characterController;
 		[Space]
 		[SerializeField] private List<PlayerComponent> components;

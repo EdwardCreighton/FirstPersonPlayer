@@ -1,7 +1,7 @@
 {
     "name": "Sterling.FirstPersonPlayer",
     "rootNamespace": "",
-    "references": [],
+    "references": ["GUID:4313e7c9a7dd24245ae7732e6b9db7c4"],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
